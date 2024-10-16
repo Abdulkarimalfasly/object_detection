@@ -2,3 +2,6 @@ The code starts by loading an image from the specified path using the OpenCV lib
 
 
 ![image](image.jpg)
+![image](download1.jpg)
+
+
